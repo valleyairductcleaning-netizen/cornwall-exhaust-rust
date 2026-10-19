@@ -1,0 +1,6 @@
+HOME PAGE BACKGROUND: assets/hero.jpg (replace with your own clean photo, no lettering)
+HOME PAGE LOGO: assets/logo.png (transparent background)
+EXHAUST CARD: assets/exhaust.jpg
+RUST CARD: assets/rust.jpg
+GENERAL REPAIRS CARD: assets/repairs.jpg
+To change a photo, replace the file with a new image using the same filename and upload the whole folder to Cloudflare Pages.
