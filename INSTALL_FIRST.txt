@@ -1,0 +1,14 @@
+CORNWALL EXHAUST & RUST — UPDATED WEBSITE
+
+26 pages total: original 10 + 15 new car-care articles + 1 Helpful Guides directory.
+
+1. Extract this ZIP.
+2. Copy ALL extracted files and the assets folder into your existing cornwall-exhaust-rust GitHub repository, replacing files when prompted.
+3. In GitHub Desktop, review changes, Commit to main, then Push origin.
+4. Visit https://cornwallexhaust.ca/guides.html after deployment.
+5. In Google Search Console, submit https://cornwallexhaust.ca/sitemap.xml and request indexing of the guides page if desired.
+
+Do not upload the ZIP itself to the repository: upload the contents.
+Existing images, favicon, analytics, and service pages are preserved from your supplied prior website package.
+
+SEO note: Keywords are topical targets, not confirmed monthly volumes or guaranteed rankings. Review article wording, offered services and contact details before publishing.
